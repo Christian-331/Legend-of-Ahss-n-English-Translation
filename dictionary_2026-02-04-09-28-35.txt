@@ -1,0 +1,1371 @@
+Ahssûn,Ahssûn
+Erbauer,Builders
+Sumpfkraut,Swampweed
+Irrlicht,Will-o'-the-wisp
+Wassermagier,Water Mages
+Ring des Wassers,Ring of Water
+Fokussteine,Focus Stones
+Teleportsteine,Teleport Stones
+Hallen von Irdorath,Halls of Irdorath
+Gletscherquarz,Glacial Quartz
+Aquamarin,Aquamarine
+Bergkristall,Mountain Crystal
+Wirbelwind,Whirlwind
+Eislanze,Ice Lance
+Geysir,Geyser
+Wasserfaust,Water Fist
+Unwetter,Storm
+Lurker,Lurker
+Snapper,Snapper
+Crawler,Crawler
+Fleischwanze,Meatbug
+Minenanteile,Mine Shares
+Teleportwürfel,Teleport Cube
+Königsbräu,King's Brew
+Odium der Täuschung,Odium of Deception
+Ödland,Wasteland
+Eisgebiet,Ice Region
+Vulkangrotte,Volcanic Grotto
+Verlassenes Minendorf,Abandoned Mine Village
+Innos,Innos
+Adanos,Adanos
+Bennet,Bennet
+Cavalorn,Cavalorn
+Raven,Raven
+Lucia,Lucia
+Fleur,Fleur
+Dotter,Dotter
+Togen,Togen
+Mor,Mor
+Morty,Morty
+Tires,Tires
+Wadur,Wadur
+Snard,Snard
+Simon,Simon
+Hervis,Hervis
+Hieronymus,Hieronymus
+Remus,Remus
+Julius,Julius
+Názo,Názo
+Isere,Isere
+Samuel,Samuel
+Seradan,Seradan
+Argos,Argos
+Jaques,Jaques
+Ron,Ron
+Cortez,Cortez
+Felvin,Felvin
+Furax,Furax
+Johann,Johann
+Harlot,Harlot
+Albert,Albert
+Sikar,Sikar
+Ligno,Ligno
+Norbert,Norbert
+Franz,Franz
+Ricaso,Ricaso
+Morgan,Morgan
+Johannes,Johannes
+Karl,Karl
+Sontril,Sontril
+Rolfus,Rolfus
+Andreas,Andreas
+Ivar,Ivar
+Jupp,Jupp
+Weynard,Weynard
+Orin,Orin
+Alastor,Alastor
+Kastor,Kastor
+Sargon,Sargon
+Markus,Markus
+Gibson,Gibson
+Herbert,Herbert
+Kurom,Kurom
+Tim,Tim
+Okkolus,Okkolus
+Parachor,Parachor
+Garoth,Garoth
+Aarhus,Aarhus
+Joachim,Joachim
+Pico Virtuoso,Pico Virtuoso
+Vanadium,Vanadium
+Vestito,Vestito
+Flint,Flint
+Bruno,Bruno
+Drag,Drag
+Santor,Santor
+Fitch,Fitch
+Stash,Stash
+Gorok,Gorok
+Worin,Worin
+Thorn,Thorn
+Meriel,Meriel
+Urbak,Urbak
+Fius,Fius
+Tremell,Tremell
+Oswald,Oswald
+Merlot,Merlot
+Gose,Gose
+Gerwulf,Gerwulf
+Sergej,Sergej
+Amadeus,Amadeus
+Mieke,Mieke
+Donatello,Donatello
+Nemantius,Nemantius
+Korte,Korte
+Tycian,Tycian
+Jaromin,Jaromin
+Verto,Verto
+Unnar,Unnar
+Glen,Glen
+Geoff,Geoff
+Albrecht,Albrecht
+Hacker,Miner
+Pfeilfeinmechaniker,Arrow Precision Mechanic
+Tierverwertung,Harvesting Trophies
+Zunft,Guild
+Zunftaufnahme,Guild Admission
+Freies Lager,Free Camp
+Banditenlager,Bandit Camp
+Gebrauchsgegenstände,Utensils
+Prüfung des Feuers,Test of Fire
+Sumpfkrautstängeln,Swampweed Joints
+Südländer,Southerner
+Martinus,Martinus
+Esteban,Esteban
+Quarhodron,Quarhodron
+Francis,Francis
+Roperi,Roperi
+Heuerbuch,Paybook
+Stadtwache,City Guard
+Steinplatte,Stone Plate
+Fürst,Lord
+Orden,Order
+göttliche Ordnung,Divine Order
+heiligen Schriften,Holy Scriptures
+Überseehandel,Overseas trade
+Zölle,Tolls
+Stadtpinkel,City slickers
+Piratenpack,Pirate scum
+Lump,Scoundrel
+Schläger,Thugs
+Frevel,Sacrilege
+Mistkerl,Bastard
+Drecksviecher,Filthy beasts
+Goldmine,Gold mine
+Orks,Orcs
+Mistvieh,Vile beast
+Penner,Lowlife
+Schiffsverkehr,Maritime trade
+Söldner,Mercenaries
+Miliz,Militia
+Feuermagier,Fire Mages
+Bibliothek,Library
+Sumpf,Swamp
+Wunder,Miracle
+Todesmutigen,Death-defier
+Soldat,Soldier
+Drecksschwein,Filthy swine
+Hammelbeine lang ziehen,Give a good hiding
+Sohn einer räudigen Gurke,Son of a mangy cur
+Fürst Albrecht,Lord Albrecht
+Bürger,Citizen
+Militärarzt,Military Surgeon
+Goldschmied,Goldsmith
+Singularität,Singularity
+Brunnen mit Pumpe,Pump Well
+Hafenwerft,Harbor Shipyard
+Hafenschenke,Harbor Tavern
+Leuchtturm,Lighthouse
+Hafentor,Harbor Gate
+Konfiszierte Ausrüstung,Confiscated Equipment
+Lucigoth,Lucigoth
+Dämonenstatue,Demon Statue
+Makasse,Makasse Tree
+Ornament-Säule,Ornamental Pillar
+Luthien,Luthien
+Severin,Severin
+Karls Bauernhof,Karl's Farm
+Königsgarde,King's Guard
+Rekrut,Recruit
+Magier,Mage
+Novize,Novice
+Berserker,Berserker
+Bauer,Farmer
+Bandit,Bandit
+Sträfling,Convict
+Suchender,Seeker
+Landbewohner,Land Dweller
+Pirat,Pirate
+Goblinskelett,Goblin Skeleton
+Scavenger,Scavenger
+Riesenratte,Giant Rat
+Feldräuber,Field Raider
+Blutfliege,Bloodfly
+Waran,Lizard
+Wolf,Wolf
+Minecrawler,Minecrawler
+Skelett,Skeleton
+Skelett-Magier,Skeleton Mage
+Zombie,Zombie
+Schattenläufer,Shadowbeast
+Harpie,Harpy
+Steingolem,Stone Golem
+Feuergolem,Fire Golem
+Eisgolem,Ice Golem
+Dämon,Demon
+Troll,Troll
+Sumpfhai,Swampshark
+Drache,Dragon
+Molerat,Molerat
+Alligator,Alligator
+Sumpfgolem,Swamp Golem
+Steinpuma,Stone Puma
+Drakonier,Draconian
+Heiliges Licht,Holy Light
+Heiliger Pfeil,Holy Arrow
+Böses vertreiben,Banish Evil
+Böses vernichten,Destroy Evil
+Feuerpfeil,Fire Arrow
+Eispfeil,Ice Arrow
+Feuerball,Fireball
+Blitz,Lightning
+Windfaust,Wind Fist
+Schlaf,Sleep
+Blitzschlag,Lightning Bolt
+Eisblock,Lock of Ice
+Kugelblitz,Ball Lightning
+Eiswelle,Ice Wave
+Feuerregen,Fire Rain
+Todeshauch,Breath of Death
+Todeswelle,Wave of Death
+Armee der Finsternis,Army of Darkness
+Windhose,Dust Devil
+Insektenschwarm,Insect Swarm
+Wurzelschlingen,Root Snare
+Erdbeben,Earthquake
+Beliars Zorn,Beliar's Wrath
+Schrei der Toten,Cry of the Dead
+Manasucht,Mana Addiction
+Eisenerzlangschwert,Iron Ore Longsword
+Eisenerzzweihänder,Iron Ore Two-Hander
+Eisenerzbastardschwert,Iron Ore Bastard Sword
+Schlachtklinge,Battle Blade
+Eisenerzdrachentöter,Iron Ore Dragon Slayer
+Rubinklinge,Ruby Blade
+El Bastardo,El Bastardo
+Flamberge,Flamberge
+Claymore,Claymore
+Highlander,Highlander
+Klaue Beliars,Claw of Beliar
+Beliar,Beliar
+Khorinis,Khorinis
+Xardas,Xardas
+Matteo,Matteo
+Halvor,Halvor
+Salandril,Salandril
+Tengron,Tengron
+Graf,Count
+Freiherr,Baron
+Ehrengardist,Honor Guard
+Schwertträger,Swordbearer
+Roter Tränenpfeffer,Red Tear Pepper
+Feuergeschnetzeltes,Fire Strips
+Fleischsuppe,Meat Soup
+Kapitän Greg,Captain Greg
+Lou,Lou
+Orlan,Orlan
+Akil,Akil
+Skip,Skip
+Bromor,Bromor
+Snaf,Snaf
+Fletcher,Fletcher
+William,William
+Angus,Angus
+Tom,Tom
+Fortuno,Fortuno
+Lennar,Lennar
+Jaston,Jaston
+Neodym,Neodym
+Luka,Luka
+Tris,Tris
+Hamilkar,Hamilkar
+Umar,Umar
+Grayham,Grayham
+Selena,Selena
+Kharador,Kharador
+Obadja,Obadja
+Stravus,Stravus
+Nathanael,Nathanael
+Janus,Janus
+Brix,Brix
+Oric,Oric
+Frierer,Frierer
+Lisk,Lisk
+Woltmann,Woltmann
+Draghir,Draghir
+Elham vi dù Dama,Elham vi dù Dama
+Grünbald,Grünbald
+Matthias,Matthias
+Ines,Ines
+Servito,Servito
+Arya,Arya
+Fiona,Fiona
+Claw,Claw
+Gibralter,Gibralter
+Magus,Magus
+Adrion,Adrion
+Wulfgar,Wulfgar
+Allmann,Allmann
+Odo,Odo
+Zylan,Zylan
+Furt,Furt
+Rodg,Rodg
+Jackal,Jackal
+Herek,Herek
+Craig,Craig
+Gerret,Gerret
+Gravo,Gravo
+Cord,Cord
+Ortan,Ortan
+Sarantis,Sarantis
+Khémara,Khémara
+Lalvanien,Lalvania
+Wiranon,Wiranon
+Oranien,Oranien
+Kesbala,Kesbala
+Doncella,Doncella
+Natterwurz,Adderswort
+Peternsalz,Petern salt
+Trolleiche,Trolloak
+Blauflieder,Blue lilac
+Feuernessel,Fire nettle
+Weidenbeere,Willowberry
+Snapperkraut,Snapperweed
+Triumvirat,Triumvirate
+Armenhaus,Poorhouse
+Lous Hammer,Lou's Hammer
+Schneller Hering,Hasty Herring
+Frische Brise,Fresh Breeze
+Starke Brise,Strong Breeze
+Bergtrunk,Mountain Brew
+Hofsbräu,Farmstead Brew
+Helles Hefe,Light Yeast
+Freier Adler,Free Eagle
+Seemannstropfen,Sailor's Draught
+Orins Bier,Orin's Beer
+Drachenbann,Dragon's Bane
+Gletscherhauch,Glacial Breath
+Sonnenstrahl,Sunbeam
+Siebenmeilenstiefel,Seven-league boots
+Uriziel,Uriziel
+Justitia,Justitia
+Ridil,Ridil
+Nodachis,Nodachis
+Drumscheit,Tromba marina
+Klappmuschel,Gaper clam
+Hornmuschel,Spiny clam
+Dunkelpilzragout,Dark Mushroom Ragout
+Gürtel des Nächtlichen Jägers,Night Hunter's Belt
+Gürtel des geschickten Jägers,Skilled Hunter's Belt
+Lurkeraugen-Gürtel,Lurker Eye Belt
+Armreif des Lebens,Bracelet of Life
+Armreif der Stärke,Bracelet of Strength
+Armreif der Lebenskraft,Bracelet of Vitality
+Armreif der Knechtschaft,Bracelet of Servitude
+Armreif der astralen Kraft,Bracelet of Astral Power
+Armreif der astralen Stärke,Bracelet of Astral Strength
+Armreif der Geschicklichkeit,Bracelet of Dexterity
+Ines' Armreif,Ines' Bracelet
+Armreif des Giftschutzes,Bracelet of Poison Protection
+Armreif der magischen Annihilation,Bracelet of Magic Annihilation
+Paginas Kuchen,Pagina's Cake
+Stärkender Eintopf,Strengthening Stew
+Starker Eintopf,Strong Stew
+Coragons Spezial Bier,Coragon's Special Beer
+Velayisöl,Velayis Oil
+Sauerkrautsaft,Sauerkraut Juice
+Fleurs Diadem,Fleur's Diadem
+Diebesmundschutz,Thief's Mask
+Schäferhut,Shepherd's Hat
+Götzenhelm,Idol Helmet
+Masterschlüssel,Master Key
+Mentula,Mentula
+Dandarius,Dandarius
+Tygeras,Tygeras
+Ryan,Ryan
+Aderpo,Aderpo
+Hezran,Hezran
+Nero,Nero
+Gifttinktur,Poison Tincture
+Schnapstabak,Spirit Tobacco
+Moleratfett,Molerat Fat
+Rüstungspaket,Armor Package
+Brotschieber,Bread Peel
+Sonnenblumensamen,Sunflower Seeds
+Trolleiche,Trolloak Wood
+Herausforderungströte,Challenge Horn
+Knoschra,Knoschra
+Aktivierungsstein,Activation Stone
+Herz eines Untoten Menschenfürsten,Heart of an Undead Human Lord
+Herz einer Eisbestie,Heart of an Ice Beast
+Herz eines Feuerdrachen,Heart of a Fire Dragon
+Trank der Giganten,Potion of Giants
+Schwarzpulver,Black Powder
+Grom,Grom
+Fébre,Fébre
+Said,Said
+Zuckerrübe,Sugar Beet
+Drachenseele,Dragon Soul
+Eiskrone,Ice Crown
+Red-Mein-Nicht,Speak-Me-Not
+Kristallelixier der Stärke,Crystal Elixir of Strength
+Kristallelixier der Geschicklichkeit,Crystal Elixir of Dexterity
+Kristallelixier der magischen Kraft,Crystal Elixir of Magic Power
+Kristallelixier des Lebens,Crystal Elixir of Life
+Orkbitter,Orc Bitters
+Orkliebe,Orc Love
+Schutz vor Lähmungen,Protection from Paralysis
+Ring des Duellanten,Duelist's Ring
+Ring der natürlichen Widerstandskraft,Ring of Natural Resistance
+Schutzzauber,Protection Spell
+Alraunenbogen,Mandragora Bow
+Greifenbogen,Griffin Bow
+Obsidianpfeil,Obsidian Arrow
+Explosionspfeil,Explosive Arrow
+Pestilenzpfeil,Pestilence Arrow
+Kopfgeldjägerarmbrust,Bounty Hunter's Crossbow
+Drakonierarmbrust,Drakonier Crossbow
+Selmas Eintopf,Selma's Stew
+Araxos,Araxos
+TheEternal,TheEternal
+Eiskönig,Eiskönig
+Milky-Way,Milky-Way
+Arthonius,Arthonius
+Neconspictor,Neconspictor
+Tandrael,Tandrael
+Zuben2,Zuben2
+Kersoph,Kersoph
+Verdauungstrank,Digestive Potion
+Gunderiens Gehstock,Gunderien's Walking Stick
+Draghirs Auge,Draghir's Eye
+Ring der schlüpfrigen Hand,Ring of the Slippery Hand
+Schürhaken,Poker
+Belegnagel,Belaying Pin
+Nagelknüppel,Spiked Club
+Wolfszahn,Wolf's Tooth
+Steinbrecher,Stonebreaker
+Schädelspicker,Skullsplitter
+Rabenschnabel,Raven's Beak
+Inquisitor,Inquisitor
+Runenmacht,Rune Power
+Meisterdegen,Master Sword
+Orkschlächter,Orc Slayer
+Drachenschneide,Dragon Slicer
+Heiliger Vollstrecker,Holy Executioner
+Wargkralle,Warg Claw
+Trollknochenklinge,Troll Bone Blade
+Orkische Generalklinge,Orcish General's Blade
+Assassinendolch,Assassin's Dagger
+Sonnenaloe,Sun Aloe
+Tanduril,Tanduril
+Martens,Martens
+Rasirius,Rasirius
+Ivan,Ivan
+Archol,Archol
+Feodaron,Feodaron
+Morgahard,Morgahard
+Larius,Larius
+Tristram,Tristram
+Diego,Diego
+Lee,Lee
+Gomez,Gomez
+Vatras,Vatras
+Saturas,Saturas
+Nefarius,Nefarius
+Pyrokar,Pyrokar
+Lewa,Lewa
+Adim,Adim
+Adjus,Adjus
+Aengstler,Aengstler
+Agiulf,Agiulf
+Ajax,Ajax
+Schwarze Rose,Black Rose
+Amasius,Amasius
+Ardam,Ardam
+Argun,Argun
+Ayet,Ayet
+Balint,Balint
+Barim,Barim
+Bolthan,Bolthan
+Borrell,Borrell
+Borris,Borris
+Buffalo,Buffalo
+Calvin,Calvin
+Calvio,Calvio
+Chartus,Chartus
+Conavro,Conavro
+Crixus,Crixus
+Daniel,Daniel
+David,David
+Deniro,Deniro
+Dex,Dex
+Dig,Dig
+Don,Don
+Dora,Dora
+Dreye,Dreye
+Dylan,Dylan
+Eastano,Eastano
+Echos,Echos
+Elmar,Elmar
+Emanuel,Emanuel
+Emilie,Emilie
+Fabi,Fabi
+Fache,Fache
+Fengar,Fengar
+Forken,Forken
+Frand,Frand
+Furus,Furus
+Gabriel,Gabriel
+Gabriolan,Gabriolan
+Garvs,Garvs
+Gertrud,Gertrud
+Ginai,Ginai
+Gisella,Gisella
+Giuseppe,Giuseppe
+Gregorius,Gregorius
+Griswald,Griswald
+Hamian,Hamian
+Hamo,Hamo
+Hansae,Hansae
+Harik,Harik
+Heinrich,Heinrich
+Helene,Helene
+Hilde,Hilde
+Holga,Holga
+Igor,Igor
+Isidro,Isidro
+Isorn,Isorn
+Jamiron,Jamiron
+Jan,Jan
+Janora,Janora
+Jegor,Jegor
+Jorge,Jorge
+Jost,Jost
+Juergen,Juergen
+Kain,Kain
+Karan,Karan
+Karelle,Karelle
+Kelron,Kelron
+Klerus,Klerus
+Kroh,Kroh
+Kunislav,Kunislav
+Lenox,Lenox
+Leopold,Leopold
+Lucas,Lucas
+Lunso,Lunso
+Lupia,Lupia
+Lydia,Lydia
+Magdalene,Magdalene
+Marand,Marand
+Margot,Margot
+Mark,Mark
+Marlon,Marlon
+Marus,Marus
+Maurice,Maurice
+Mechandro,Mechandro
+Melville,Melville
+Mert,Mert
+Michels,Michels
+Molk,Molk
+Morris,Morris
+Mostar,Mostar
+Natalie,Natalie
+Neal,Neal
+Nelfgar,Nelfgar
+Nems,Nems
+Nicoline,Nicoline
+Ocha,Ocha
+Olaf,Olaf
+Olov,Olov
+Oskar,Oskar
+Pasquale,Pasquale
+Pato,Pato
+Patrick,Patrick
+Quadrich,Quadrich
+Quelgan,Quelgan
+Rachel,Rachel
+Ramona,Ramona
+Ramsus,Ramsus
+Ranco,Ranco
+Richter,Richter
+Rionell,Rionell
+Roberto,Roberto
+Robin,Robin
+Rodrigo,Rodrigo
+Rolf,Rolf
+Rumar,Rumar
+Sallus,Sallus
+Sanor,Sanor
+Sativ,Sativ
+Seth,Seth
+Sev,Sev
+Siegmund,Siegmund
+Stanislav,Stanislav
+Surrator,Surrator
+Syra,Syra
+Tanja,Tanja
+Tara,Tara
+Tatjana,Tatjana
+Thönes,Thönes
+Thorwald,Thorwald
+Tiw,Tiw
+Tobias,Tobias
+Tyras,Tyras
+Uwe,Uwe
+Victoria,Victoria
+Wieland,Wieland
+Xylus,Xylus
+Zach,Zach
+Zara,Zara
+Rufus,Rufus
+Brom,Brom
+Mors,Mors
+Scrat,Scrat
+Joker,Joker
+Moloch,Moloch
+Pein,Agony
+Rovan,Rovan
+Pater Sacerdos,Father Sacerdos
+Oberes Viertel,Upper Quarter
+Mittleres Viertel,Middle Quarter
+Unteres Viertel,Lower Quarter
+Armenviertel,Poor Quarter
+Armenküche,Soup Kitchen
+Klosterschlüssel,Monastery Key
+Pfeilbeutel,Arrow Pouch
+Turmschlüssel,Tower Key
+Erzbrocken,Ore Chunk
+Goldbrocken,Gold Chunk
+Zunftmeister,Guildmaster
+Ketzer,Heretic
+Scharlatan,Charlatan
+Landratte,Landlubber
+Gänserich,Gander
+Bademantel,Bathrobe
+Moddertreffen,Modder meeting
+Ewig Währende Skripter,Eternal Scripter
+Meisterbäcker Rolf,Master Baker Rolf
+Kriegsrecht,Martial Law
+Garnison,Garrison
+Apostasie,Apostasy
+Häresie,Heresy
+Marktschreier,Barker
+Haudegen,War-horse
+Unbefugtem Zutritt,Unauthorized access
+Stängel,Stalk
+Lagermeister,Storehouse Master
+Proviantmeister,Quartermaster
+Geschichtsschreiber,Chronicler
+Klosterwache,Monastery Guard
+Schwarzmagier,Black Mage
+Bettler,Beggar
+Dienstmädchen,Maid
+Tempel,Temple
+Schmiede,Forge
+Eisenerzmine,Iron Ore Mine
+Mitstreiter,Companions
+Position,Position
+Stellung,Position
+Aggressiv,Aggressive
+Defensiv,Defensive
+Joint,Joint
+Weinberg,Vineyard
+Lagerhaus,Warehouse
+Grog,Grog
+Vater von Orin,Orin's father
+Schutzgeld,Protection money
+Eintreiber,Enforcers
+Buddleraufstand,Digger uprising
+Arenakämpfe,Arena fights
+Lalvanische Krone,Lalvanian Crown
+Abt Kharador,Abbot Kharador
+Gotteshaus,House of God
+Brauerei,Brewery
+Turmwache,Tower Guard
+Mönch,Monk
+Bürgerin,Female Citizen
+Freudenhaus,Brothel
+Lehrlinge,Apprentices
+Handwerksmeister,Master Craftsmen
+Goldstücke,Gold pieces
+Puff,Brothel
+Dirnen,Wenches
+Stadtrundföhrer,City Guide
+Unterstadt,Lower Town
+Galgenplatz,Gallows Square
+Adanos-Tempel,Temple of Adanos
+Kaserne,Barracks
+Marktplatz,Marketplace
+Schneetreiber,Snow Driver
+Phasenverschiebung,Phase Shift
+Eglasthal,Eglasthal
+Doncella,Doncella
+Schneider,Tailor
+Seide,Silk
+Stoff,Cloth
+Moleratfett,Molerat Fat
+Sicheln,Sickles
+Wolfsfelle,Wolf Skins
+Keilerfelle,Boar Skins
+Reptilienhäute,Lizard Hides
+Wargfelle,Warg Skins
+Schattenläuferfelle,Shadowbeast Skins
+Trollfelle,Troll Skins
+Stärkekristalle,Strength Crystals
+Magiekristalle,Magic Crystals
+Mönchsrobe,Monk's Robe
+WeiÐe Magierrobe,White Mage Robe
+Wassermagierrobe,Water Mage Robe
+Nietenrüstung,Studded Armor
+Feldknöterich,Meadow Knotweed
+Kronstöckl,King's Sorrel
+Drachenwurzel,Dragonroot
+Goblin Beere,Goblin Berry
+Heilpflanze,Healing Plant
+Heilkraut,Healing Herb
+Heilwurzel,Healing Root
+Feuernesseln,Fire Nettles
+Feuerkräuter,Fireweeds
+Feuerwurzeln,Fire Roots
+Schwefel,Sulfur
+Pech,Pitch
+Kohle,Coal
+Schwarze Perle,Black Pearl
+Obsidian,Obsidian
+Fangheuschrecke,Mantis
+Bluthund,Bloodhound
+Wüstenratte,Desert Rat
+Beisser,Chomper
+Feuerteufel,Fire Devil
+Steinwächter,Stone Sentinel
+Sumpfgasdrone,Swampgas Drone
+Sumpfleiche,Swamp Corpse
+Flugschreckenschwarm,Locust Swarm
+Feldräuberkönin,Field Raider Queen
+Pestratte,Plague Rat
+Schattenkrieger,Shadow Warrior
+Rastlose Seele,Restless Soul
+Oranierburg,Oranian Castle
+Oranierkrieg,Oranian War
+Insanus,Insanus
+Geimar,Geimar
+Krochanak,Krochanak
+Gra'Nesh,Gra'Nesh
+Zakam,Zakam
+Hosh-Pak,Hosh-Pak
+Rondor,Rondor
+Grosh-Pak,Grosh-Pak
+Worschak,Worschak
+Cho-Narsan,Cho-Narsan
+Tar - Otay,Tar - Otay
+Gnarbash,Gnarbash
+Ur-Shak,Ur-Shak
+Nazosch,Nazosch
+Ror'Shak,Ror'Shak
+Innash Yarpen,Innash Yarpen
+Lalvanischer Soldat,Lalvanian Soldier
+Wegelagerer,Highwayman
+Mert Ibn Ersun Ishgab,Mert Ibn Ersun Ishgab
+Vermummter Mann,Hooded Man
+Ängstlicher Mann,Fearful Man
+Fremder,Stranger
+Gefangenenwache,Prison Guard
+Leibwache,Bodyguard
+Khan,Khan
+Florencia,Florencia
+Ruby,Ruby
+Händler,Merchant
+Crealina,Crealina
+Artos,Artos
+Gilbert,Gilbert
+Illusion von Fébre,Illusion of Fébre
+Hubertus,Hubertus
+Dormia,Dormia
+Ardaric,Ardaric
+Wanderarbeiter,Migrant Worker
+Knecht,Farmhand
+Felix,Felix
+Dragor,Dragor
+Damuel,Damuel
+Minenwache,Mine Guard
+Tempelwache,Temple Guard
+Kabarettist,Kabarettist
+Illusion von Wulfgar,Illusion of Wulfgar
+Dummy Npc,Dummy Npc
+Königlicher Gardist,Royal Guardsman
+Jenkins,Jenkins
+Irios,Irios
+Raimund,Raimund
+Truppföhrer Jim,Squad Leader Jim
+Tavernenwächter,Tavern Guard
+Kronstedt,Kronstedt
+Brahmus,Brahmus
+Glöckner,Bell-ringer
+Beschäftigter Mönch,Busy Monk
+Erscheinung Kharadors,Apparition of Kharador
+Konstantin,Konstantin
+Orkschamanen Geist,Orc Shaman Spirit
+Illusion von Kharador,Illusion of Kharador
+Illusion von Adrion,Illusion of Adrion
+Illusion von Magus,Illusion of Magus
+Magierwache,Mage Guard
+Leibgarde,Royal Guard
+Burgwache,Castle Guard
+Hide,Hide
+Farin,Farin
+Björn,Björn
+Kämpfer,Fighter
+Säufer,Drunkard
+Tote Wache,Dead Guard
+Bandenmitglied,Gang Member
+Schürfer,Scraper
+Alexander,Alexander
+Arkan,Arkan
+Abenteurerin,Female Adventurer
+Juliana,Juliana
+Armir,Armir
+Hafenrekrut,Harbor Recruit
+Lagerhauswache,Warehouse Guard
+Passwache,Pass Guard
+Kasernenwache,Barracks Guard
+Gate Guard,Gate Guard
+Illusion meiner selbst,Illusion of Myself
+Tyrell,Tyrell
+Jürgen,Jürgen
+Hermit,Hermit
+Kapitelhelfer,Chapter Helper
+Errand-Boy,Messenger
+Arbeiter,Worker
+Robert,Robert
+Gestalt,Shape
+Beren,Beren
+Holga,Holga
+Digger,Digger
+Frand,Frand
+Der Don,The Don
+Proviantmeister,Quartermaster
+Parcival,Parcival
+Schattenlord Parcival,Shadow Lord Parcival
+Thronwache,Throne Guard
+Attile,Attila
+Bleda,Bleda
+Rum'n'Jack,Rum'n'Jack
+Hansae's Wache,Hansae's Guard
+Fransiscus,Fransiscus
+Honer,Honer
+Krons,Krons
+Girard,Girard
+Kerkermeister,Jailer
+Truppenarzt,Troop Surgeon
+Heiko,Heiko
+Quichotte,Quichotte
+Hansi,Hansi
+Armer Bürger,Poor Citizen
+Gefangener,Prisoner
+Toter Mann,Dead Man
+Seemann,Sailor
+Mittelständischer Bürger,Middle-class Citizen
+Dalmatius,Dalmatius
+Mittelständische Bürgerin,Middle-class Female Citizen
+Thalia,Thalia
+Pagina,Pagina
+Arme Bürgerin,Poor Female Citizen
+Hamian,Hamian
+Luther,Luther
+Gustav,Gustav
+Lagerarbeiter,Warehouse Worker
+Kroh,Kroh
+Arbeitsloser Bürger,Unemployed Citizen
+Schatzgräber,Treasure Hunter
+Jäger,Hunter
+Michael,Michael
+Joe,Joe
+Gläubiger Bürger,Devout Citizen
+Lüsterner Bürger,Lustful Citizen
+Hungriger Bürger,Hungry Citizen
+Carl,Carl
+Türsteher,Doorman
+Traurige Bürgerin,Sad Female Citizen
+Patricia,Patricia
+Forion,Forion
+Dienstmädchen,Maidservant
+Herold,Herald
+Arbeitsloser Tagelöhner,Unemployed Day Laborer
+Hemley,Hemley
+Rocko,Rocko
+Tynan,Tynan
+Arenazuschauer,Arena Spectator
+Hektor,Hektor
+Paris,Paris
+Merthyr,Merthyr
+Alphawolf,Alpha Wolf
+Crabbe,Crabbe
+Goyle,Goyle
+Daitan,Daitan
+Fanatischer Arenazuschauer,Fanatical Arena Spectator
+Frustrierter Arenazuschauer,Frustrated Arena Spectator
+Assassin,Assassin
+Arenaansager,Arena Announcer
+Tyrone,Tyrone
+Ulli,Ulli
+Gängler,Street-tough
+Edward,Edward
+Chef,Chef
+Man-at-Arms,Man-at-Arms
+Rhinoa,Rhinoa
+Nephra,Nephra
+Liandra,Liandra
+Illusion von Fürst Albrecht,Illusion of Lord Albrecht
+Illusion von Grom,Illusion of Grom
+Athanor,Athanor
+Mostar,Mostar
+Mariel,Mariel
+Rudolf,Rudolf
+Bäcker,Baker
+Toter Mönch,Dead Monk
+Irrer Magier,Mad Magician
+Nadine,Nadine
+Daitan, der Legendentöter,Daitan, the Legend Slayer
+Norberts Hammer,Norbert's Hammer
+Feomathar,Feomathar
+Knochen einer rastlosen Seele,Bones of a Restless Soul
+Ferhat,Ferhat
+Kelron,Kelron
+Fache,Fache
+Grind,Grind
+Pasquale,Pasquale
+Mechandro,Mechandro
+Karelle,Karelle
+Ing,Ing
+Hamo,Hamo
+Lew,Lew
+Patrick,Patrick
+Nelfgar,Nelfgar
+Westposten,West Post
+Westeingang,West Entrance
+Osttor,East Gate
+Krep,Krep
+Karls Hof,Karl's Farm
+Badehaus,Bathhouse
+platindurchwirktes Waschgold,Platinum-infused placer gold
+Waschgold,Placer gold
+Stärkekristall,Strength crystal
+Geschicklichkeitskristall,Dexterity crystal
+Magiekristall,Magic crystal
+Sturmkristall,Storm crystal
+Seelenkristall,Soul crystal
+Mittlere Kämpferrüstung,Medium fighter armor
+Schlaftrunk,Sleeping draught
+Succubus,Succubus
+Incubus,Incubus
+Konkubine,Concubine
+Greife,Griffins
+Sumpfkrautjunkies,Swampweed fiends
+Teleportationsschriftrolle,Teleportation scroll
+Spruchrolle,Spell scroll
+Gerhard Holzt,Gerhard Holzt
+Snapperland,Snapperland
+Alfred,Alfred
+Mynthen,Mynthan
+Gespielinnen,Consorts
+Vogelfreie,Outlaws
+Akademie,Academy
+Kämpferrüstung,Fighter Armor
+Wacholder,Juniper spirit
+Novizen,Novices
+Greiffelstunnel,Greiffels Tunnel
+Khémarisches Roulette,Khémarion Roulette
+Lustige Sieben,Merry Seven
+Zwei Oben,Two-Face Up
+Einundzwanzig,Twenty-One
+Greifenrüstung,Griffin Armor
+Schwere Greifenrüstung,Heavy Griffin Armor
+Leichte Greifenrüstung,Light Griffin Armor
+Conservatio,Conservatio
+Wacholderschnaps,Juniper spirit
+Crawlerzange,Crawler mandible
+Crawlereintopf,Crawler stew
+Silberzange,Silverpincer
+Schürferbuch,Prospector's volume
+Lefty,Lefty
+Crawlerstollen,Crawler tunnel
+Warenpaket,Goods package
+Proviantlager,Provision store
+Rekrutenstube,Recruits' quarters
+Steuerschulden,Tax debt
+Rehfleisch,Venison
+Wolfsbisse,Wolf bites
+Hustensaft,Cough syrup
+Silberpokal,Silver chalice
+Hafenkarte,Harbor map
+Rohstahl,Raw steel
+Feuerlurker,Fire Lurker
+Giftzähne,Poison fangs
+Lurkergift,Lurker venom
+Eisverzauberung,Ice enchantment
+Trollkönig,Troll King
+Pfeillieferung,Arrow delivery
+Federnpaket,Bundle of feathers
+Drachenschuppen,Dragon scales
+Königliche Flotte,Royal Fleet
+Naseby,Naseby
+Borama,Borama
+Harik,Harik
+Batsy,Batsy
+Marek,Marek
+Bordeaux,Bordeaux
+Jollen,Skiffs
+Wirtschaftsinspekteur,Trade Inspector
+Exportzertifikate,Export Charters
+Obstler,Fruit Spirit
+Feuerlurkereier,Fire Lurker Eggs
+Stampfer,Grape Press
+Laborwasserflasche,Alchemist's Flask
+Vogelscheuche,Scarecrow
+Amboss,Anvil
+Getreideschnaps,Grain Spirit
+Reisschnaps,Rice Spirit
+Getreidebrand,Grain Spirit
+Besitzurkunde,Property Deed
+Wiranonesischer Überseerum,Wiranonian Overseas Rum
+Wassermönch,Water Monk
+Wassermölle,Water Mill
+Lagebericht,Situation Report
+Fälscher,Forger
+Kaution,Bail
+Rationsliste,Ration list
+Waldkrippe,Forest Manger
+Buddlerfleisch,Digger's Meat
+Dunkelpilze,Dark Mushrooms
+Gerbbaum,Tanning Rack
+Schneiderpuppe,Tailor's Dummy
+Wolfsmesser,Wolf Knife
+Leinengarn,Linen Thread
+Bojan,Bojan
+Eisverzauberung,Ice Enchantment
+magischer Kern,Magic core
+vitaler Kern,Vital core
+magische Durchwirkung,Magic infusion
+vitale Durchwirkung,Vital infusion
+magische Aura,Magic aura
+vitale Aura,Vital aura
+Lokus,Outhouse
+Kräuterpaket,Herb package
+Rundbrief,Circular
+Rundschreiben,Circular
+NahFern-Botschafts- Dienst,FarNear Message Service
+Velayis-Öl,Velayis oil
+Trolleiche,Trolloak
+Schwacher Wacholder,Weak Juniper
+Ahssûnschen Tropfen,Ahssûn Drop
+Leibkoch,Personal chef
+Jolly,Jolly
+Jägerlager,Hunter's Camp
+Holzfällerlager,Woodcutter's Camp
+Nordtor,North Gate
+Handwerksviertel,Craft Quarter
+Händlerzunft,Merchant's Guild
+Wirtschaftshelfer,Trade Assistant
+Bäckerlehrling,Baker's Apprentice
+Hehlergeschäfte,Fencing Business
+Trainingskämpfe,Training Matches
+Feldräuberei,Field Raider Egg
+Feuergolemherz,Fire Golem Heart
+Eisgolemherz,Ice Golem Heart
+Sumpfgolemherz,Swamp Golem Heart
+Steingolemherz,Stone Golem Heart
+Blattgold,Gold Leaf
+Reaktorgefäß,Reactor Vessel
+Trinkhorn,Drinking Horn
+Schattenläuferknochen,Shadowbeast Bone
+gezinkte Würfel,Loaded Dice
+Lustige Sieben,Merry Seven
+Musterring,Sample Ring
+Aufnahmegeböhr,Admission Fee
+Söhne,Atonement
+Obolus,Obolus
+Rituelle Reinigung,Ritual Cleansing
+Gerölllawine,Rockslide
+Hochzeitszug,Wedding Procession
+Golemherzen,Golem Hearts
+Salpetersäure,Saltpeter Acid
+Lebenstrank,Health Potion
+Götterlüge,Lie of the Gods
+Tor zur Unterwelt,Gate to the Underworld
+Götterkriege,Wars of the Gods
+Feuerwaranzungen,Fire Lizard Tongues
+Vanadiums Schrank,Vanadium's Cabinet
+Tagebuch des Ersten Schürfers,Diary of the First Prospector
+Tagebuch des Alchemisten,Alchemist's Diary
+Tagebuch des Erzkommissars,Ore Commissioner's Diary
+Tagebuch des Dorfältesten,Village Elder's Diary
+Tagebuch des Dorfgeistlichen,Village Cleric's Diary
+Schattenlord,Shadow Lord
+Sumpfeiche,Swamp Oak
+Drachenbann-Amulett,Dragonbane Amulet
+Zündstein,Flintstone
+Essenz der Heilung,Essence of Healing
+Extrakt der Heilung,Extract of Healing
+Elixier der Heilung,Elixir of Healing
+Elixier des Geistes,Elixir of Spirit
+Essenz der Magie,Essence of Mana
+Archiv,Archive
+Schmiedezubehör,Smithing Supplies
+Tabakhändler,Tobacco Merchant
+Wasserpfeifenraum,Hookah Room
+Sonderbehandlung,Special Treatment
+Steuerliste,Tax List
+Glücksritter,Soldier of Fortune
+Roperipresse,Roperi Press
+Strafgeld,Fine
+Highlander,Highlander
+Pfeil- und Bolzenproduktion,Arrow and Bolt Production
+Entwässerungspumpe,Drainage Pump
+Rastlose Seelen,Restless Souls
+Wachablösung,Change of the Guard
+Thönes,Thönes
+Fransiscus,Fransiscus
+Alchemist,Alchemist
+Gastwirt,Innkeeper
+Handwerker,Craftsmen
+Marktnische,Trade niche
+Pilztabak,Mushroom Tobacco
+Honigtabak,Honey Tobacco
+Handelsplatz,Trading Post
+Eisenerznotstand,Iron Ore Shortage
+Bogner,Bowmaker
+Backstube,Bakehouse
+die dunklen Lande,the Dark Lands
+Nordschwert,North Sword
+Tischler,Carpenter
+Ambossfett,Anvil Grease
+Augenmaß,Eye-measure
+Berlon,Berlon
+Truppeninspektor,Troop Inspector
+Schreiberling,Scribbler
+Gutenberg,Gutenberg
+Town Hall,Rathaus
+Rat,Council
+Ratsherren,Councilors
+Stadtkämmerer,City Treasurer
+Grizu,Grizu
+Vegetarierin,Vegetarian
+Jarro,Jarro
+Kadermeister,Cadre Master
+Gladiatoren,Gladiators
+Maito,Maito
+Christoph Smaul,Christoph Smaul
+Bugs,Bugs
+Magierviertel,Mage Quarter
+Nobelviertel,Noble Quarter
+Ring der Lebendigkeit,Ring of Vivacity
+Ring der Macht,Ring of Power
+Ring der Priester,Ring of Priests
+Ring der Unbesiegbarkeit,Ring of Invincibility
+Amulett der Priester,Amulet of Priests
+Feuerwaffenverzauberung,Fire Weapon Enchantment
+Kristalltrank,Crystal Potion
+Stärketrank,Strength Potion
+Geschicklichkeitstrank,Dexterity Potion
+Manatrank,Mana Potion
+Novizenhütten,Novice Huts
+Kumo, die Schlange,Kumo the Snake
+Rocko, der Zerstörer,Rocko the Destroyer
+Alexanderus von Humboldtus,Alexanderus von Humboldtus
+Rekrutenhütte,Recruit's Hut
+Bierbraumeister,Master Brewer
+Adanoskloster,Adanos Monastery
+Knoschra,Knoschra
+Trank des Säuglings,Potion of the Infant
+Curatio Caelestes,Curatio Caelestes
+Orkheiligstätte,Orcish Holy Site
+Diener der Orks,Servant of the Orcs
+Böse-Aura-Magier,Mages of the Evil Aura
+Orktalisman,Orcish Talisman
+Krotak Akbar,Krotak Akbar
+Morra,Morra
+Morrasprache,Morra tongue
+Orksohn,Orc-son
+Bergschnaps,Mountain Spirits
+Runen der Beschwörung,Runes of Summoning
+Runenrohling,Rune blank
+Runenzerlegung,Rune dismantling
+Hariks Wachturm,Harik's Watchtower
+Runen des Feuers,Runes of Fire
+Schreibwerkstatt,Scriptorium
+Schreibpult,Writing desk
+Runentisch,Rune table
+Wurfmesser,Throwing knife
+Klosterbibliothek,Monastery Library
+Manaessenz,Mana Essence
+Manaextrakt,Mana Extract
+Manaelixier,Mana Elixir
+Elixier der Stärke,Elixir of Strength
+Elixier der Geschicklichkeit,Elixir of Dexterity
+verdauter Kristall,digested crystal
+Mördergilde,Assassins' Guild
+Die Harpie fliegt nicht mehr,The Harpy flies no more
+Orkspäher,Orc Scout
+Befreiungsschlag,Liberation Strike
+Stoßtrupp,Strike Team
+Eliteork,Elite Orc
+Orkische Riten,Orcish Rites
+Schürferlager,Scrapers' Camp
+Glen Sophius,Glen Sophius
+Abfÿhrmittel,Purgative
+Ggegenmittel,Antidote
+Bannkreis,Warding Circle
+Schlummertrunk,Nightcap
+Diebeshandwerk,Thievery
+Taschendiebstahl,Pickpocketing
+Kriegsgefangene,Prisoners of War
+Orkskelett,Orc Skeleton
+Grabbeigaben,Grave Goods
+Sonnenuhr,Sundial
+Ziegenfleisch,Goat Meat
+Gepökeltes Fleisch,Salted Meat
+Klingen schärfen,Sharpening blades
+Waffenschleifen,Weapon sharpening
+Aufwandsentschädigung,Expense allowance
+Zweihandkampf,Two-handed combat
+Orkschiss,Orc filth
+Kundenwerbung,Referral
+Erzhacken,Ore mining
+Erzschürfen,Ore prospecting
+Meisterbuddler,Master Digger
+Trümmerschlag,Crushing blow
+Einschlagwinkel,Angle of impact
+Tempelvorplatz,Temple forecourt
+Minengeschäft,Mining business
+Gulaschsuppe,Goulash soup
+Haudrauf-Aufgabe,Rough work
+Wetteinsatz,Wager
+Hundegesicht,Dog-face
+Abenteurerrüstung,Adventurer's Armor
+Einsiedler,Hermit
+Kindbett,Childbed
+Rumbrennen,Rum distilling
+Schlafplatz,Sleeping spot
+Hurentreiber,Whoremaster
+Reinigungsritual,Ritual of Purging
+Kartograph,Cartographer
+Seebär,Sea dog
+Nebeninseln,Lesser islands
+Gabbok,Gabbok
+Schatzsucher,Treasure seekers
+Artefakt der Heilung,Artifact of Healing
+Artefakt des Lebens,Artifact of Life
+Korsaren,Corsairs
+Schatzmeister,Treasurer
+Schutzkreise,Circles of protection
+Lichtrune,Rune of Light
+Heptalog,Heptalogue
+Avatar Beliars,Avatar of Beliar
+Siegelstein,Seal Stone
+Massenteleport,Mass Teleport
+Sepsis,Blood poisoning
+Talkessel,Valley basin
+Quintalog,Quintalogue
+Bruchstück,Fragment
+Schlüsselstein,Keystone
+Sumpftempel,Swamp Temple
+Steinbruch,Quarry
+Hariks Turm,Harik's Tower
+R & S,R & S
+Der Joker,The Joker
+Der Moloch,The Moloch
+Orkschamane,Orc Shaman
+Hilfeschreiben,Written plea
+Losungswort,Passphrase
+Schergen,Schergen
+Grabstätte,Burial Ground
+Ritter der Feuerblume,Knight of the Fire Flower
+Paladin von Oranien,Paladin of Orania
+Insanus I.,Insanus I
+Schlingende Schluchten,Gorging Canyons
+Orkschamanen,Orc Shamans
+Schattenlord,Shadow Lord
+Goldschürfen,Gold mining
+Goldbrocken,Gold nuggets
+Königliches Siegel,Royal Seal
+Division Totenkopf,Death's Head Division
+Stavanger,Stavanger
+Versuke,Versuke
+Largos,Largos
+Durban,Durban
+Cádiz,Cadiz
+Granada,Granada
+Tarent,Tarent
+Mengst,Mengst
+Jessore,Jessore
+Varrag-Ahötar,Varrag-Ahötar
+Magierviertel,Mage Quarter
+Lieger,Bedstone
+Läuferstein,Runner stone
+Orkgrab,Orc Tomb
+Tempel des Erwachens,Temple of Awakening
+Götterkrieg,War of the Gods
+Herz des Dieners,Servant's Heart
+Gipfeltreffen,Summit Meeting
+Bruchstück des Herzens des Dieners,Fragment of the Servant's Heart
+Eiswölfe,Ice Wolves
+Rekrutencamp,Recruit Camp
+Gyrger,Gyrger
+Ängstler,Ängstler
+Lennart,Lennart
+Generalitätsrüstung,General's Armor
+Schwere Berserkerrüstung,Heavy Berserker Armor
+Magische Schwere Wassermagierrobe,Magic Heavy Water Mage Robe
+Heerlager,Military Camp
+Nachschublager,Supply Camp
+Turmruine,Tower Ruins
+Kriegsrat,War Council
+Ajax,Ajax
+Patrouillentrupp,Patrol Squad
+Orkruine,Orc Ruins
+Stamm der Axt,Tribe of the Axe
+Stamm des Blutes,Tribe of Blood
+Stamm der Schädel,Tribe of Skulls
+Stamm der Schrift,Tribe of the Script
+Orkprogromnacht,Orc Pogrom Night
+Hort der Echsenmenschen,Lizardmen's Hoard
+Echsenmenschen,Lizardmen
+Echsenkrieger,Lizard Warriors
+Zeichen der brennenden Pranke,Sign of the Burning Paw
+Felskralle,Rock Claw
+Zakam,Zakam
+Worschak,Worschak
+Kemschach xankadar ULU,Kemschach xankadar ULU
+Jim,Jim
+Raimund,Raimund
+Irios,Irios
+Chartus,Chartus
+Kartenzeichner,Cartographer
+ahssûnschen Malaria,Ahssûnian Malaria
+Überraschungsangriffe,Surprise Attacks
+Krep,The Krep
+Getreideschnaps,Grain spirit
+Artemius,Artemius
+Lalvanien,Lalvania
+Khémara,Khémara
+Wiranon,Wiranon
+Janus,Janus
+Sarantis,Sarantis
+Istrid-Gebirge,Istrid Mountains
+Schläfer,Sleeper
+Barriere,Barrier
+Fluchtafel,Curse plate
+Gorn,Gorn
+Akteur,Performer
+Verdikt,Verdict
